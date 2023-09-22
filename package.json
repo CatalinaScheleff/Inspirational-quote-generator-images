@@ -20,5 +20,8 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^2.6.9",
+    "sharp": "^0.32.6"
+  }
 }
